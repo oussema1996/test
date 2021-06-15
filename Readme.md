@@ -15,4 +15,4 @@ Extracting data - - Transforming Data -- Loading Data.
 - Compte-rendu.pdf : file with explanation of the approach  
 
 # Run The Project
-Clone the project and run main.py
+Clone the project change directory to test and  run main.py
