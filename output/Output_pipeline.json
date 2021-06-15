@@ -1,0 +1,257 @@
+[
+    {
+        "atccode": "A04AD",
+        "drug": "DIPHENHYDRAMINE",
+        "journal": [
+            {
+                "id": 1,
+                "title": "A 44-year-old man with erythema of the face diphenhydramine, neck, and chest, weakness, and palpitations",
+                "date": "01-01-2019",
+                "journal": "Journal of emergency nursing"
+            },
+            {
+                "id": 2,
+                "title": "An evaluation of benadryl, pyribenzamine, and other so-called diphenhydramine antihistaminic drugs in the treatment of allergy.",
+                "date": "01-01-2019",
+                "journal": "Journal of emergency nursing"
+            },
+            {
+                "id": 3,
+                "title": "Diphenhydramine hydrochloride helps symptoms of ciguatera fish poisoning.",
+                "date": "02-01-2019",
+                "journal": "The Journal of pediatrics"
+            },
+            {
+                "id": "NCT01967433",
+                "scientific_title": "Use of Diphenhydramine as an Adjunctive Sedative for Colonoscopy in Patients Chronically on Opioids",
+                "date": "01-01-2020",
+                "journal": "Journal of emergency nursing"
+            },
+            {
+                "id": "NCT04189588",
+                "scientific_title": "Phase 2 Study IV QUZYTTIR (Cetirizine Hydrochloride Injection) vs V Diphenhydramine",
+                "date": "01-01-2020",
+                "journal": "Journal of emergency nursing"
+            },
+            {
+                "id": "NCT04237091",
+                "scientific_title": "Feasibility of a Randomized Controlled Clinical Trial Comparing the Use of Cetirizine to Replace Diphenhydramine in the Prevention of Reactions Related to Paclitaxel",
+                "date": "01-01-2020",
+                "journal": "Journal of emergency nursing"
+            }
+        ],
+        "Pub_med_mentions": [
+            {
+                "id": 1,
+                "title": "A 44-year-old man with erythema of the face diphenhydramine, neck, and chest, weakness, and palpitations",
+                "date": "01-01-2019",
+                "journal": "Journal of emergency nursing"
+            },
+            {
+                "id": 2,
+                "title": "An evaluation of benadryl, pyribenzamine, and other so-called diphenhydramine antihistaminic drugs in the treatment of allergy.",
+                "date": "01-01-2019",
+                "journal": "Journal of emergency nursing"
+            },
+            {
+                "id": 3,
+                "title": "Diphenhydramine hydrochloride helps symptoms of ciguatera fish poisoning.",
+                "date": "02-01-2019",
+                "journal": "The Journal of pediatrics"
+            }
+        ],
+        "Clinicals_mentions": [
+            {
+                "id": "NCT01967433",
+                "scientific_title": "Use of Diphenhydramine as an Adjunctive Sedative for Colonoscopy in Patients Chronically on Opioids",
+                "date": "01-01-2020",
+                "journal": "Journal of emergency nursing"
+            },
+            {
+                "id": "NCT04189588",
+                "scientific_title": "Phase 2 Study IV QUZYTTIR (Cetirizine Hydrochloride Injection) vs V Diphenhydramine",
+                "date": "01-01-2020",
+                "journal": "Journal of emergency nursing"
+            },
+            {
+                "id": "NCT04237091",
+                "scientific_title": "Feasibility of a Randomized Controlled Clinical Trial Comparing the Use of Cetirizine to Replace Diphenhydramine in the Prevention of Reactions Related to Paclitaxel",
+                "date": "01-01-2020",
+                "journal": "Journal of emergency nursing"
+            }
+        ]
+    },
+    {
+        "atccode": "S03AA",
+        "drug": "TETRACYCLINE",
+        "journal": [
+            {
+                "id": 4,
+                "title": "Tetracycline Resistance Patterns of Lactobacillus buchneri Group Strains.",
+                "date": "01-01-2020",
+                "journal": "Journal of food protection"
+            },
+            {
+                "id": 5,
+                "title": "Appositional Tetracycline bone formation rates in the Beagle.",
+                "date": "02-01-2020",
+                "journal": "American journal of veterinary research"
+            },
+            {
+                "id": 6,
+                "title": "Rapid reacquisition of contextual fear following extinction in mice: effects of amount of extinction, tetracycline acute ethanol withdrawal, and ethanol intoxication.",
+                "date": "01-01-2020",
+                "journal": "Psychopharmacology"
+            }
+        ],
+        "Pub_med_mentions": [
+            {
+                "id": 4,
+                "title": "Tetracycline Resistance Patterns of Lactobacillus buchneri Group Strains.",
+                "date": "01-01-2020",
+                "journal": "Journal of food protection"
+            },
+            {
+                "id": 5,
+                "title": "Appositional Tetracycline bone formation rates in the Beagle.",
+                "date": "02-01-2020",
+                "journal": "American journal of veterinary research"
+            },
+            {
+                "id": 6,
+                "title": "Rapid reacquisition of contextual fear following extinction in mice: effects of amount of extinction, tetracycline acute ethanol withdrawal, and ethanol intoxication.",
+                "date": "01-01-2020",
+                "journal": "Psychopharmacology"
+            }
+        ],
+        "Clinicals_mentions": []
+    },
+    {
+        "atccode": "V03AB",
+        "drug": "ETHANOL",
+        "journal": [
+            {
+                "id": 6,
+                "title": "Rapid reacquisition of contextual fear following extinction in mice: effects of amount of extinction, tetracycline acute ethanol withdrawal, and ethanol intoxication.",
+                "date": "01-01-2020",
+                "journal": "Psychopharmacology"
+            }
+        ],
+        "Pub_med_mentions": [
+            {
+                "id": 6,
+                "title": "Rapid reacquisition of contextual fear following extinction in mice: effects of amount of extinction, tetracycline acute ethanol withdrawal, and ethanol intoxication.",
+                "date": "01-01-2020",
+                "journal": "Psychopharmacology"
+            }
+        ],
+        "Clinicals_mentions": []
+    },
+    {
+        "atccode": "A03BA",
+        "drug": "ATROPINE",
+        "journal": [],
+        "Pub_med_mentions": [],
+        "Clinicals_mentions": []
+    },
+    {
+        "atccode": "A01AD",
+        "drug": "EPINEPHRINE",
+        "journal": [
+            {
+                "id": 7,
+                "title": "The High Cost of Epinephrine Autoinjectors and Possible Alternatives.",
+                "date": "01-02-2020",
+                "journal": "The journal of allergy and clinical immunology. In practice"
+            },
+            {
+                "id": 8,
+                "title": "Time to epinephrine treatment is associated with the risk of mortality in children who achieve sustained ROSC after traumatic out-of-hospital cardiac arrest.",
+                "date": "01-03-2020",
+                "journal": "The journal of allergy and clinical immunology. In practice"
+            }
+        ],
+        "Pub_med_mentions": [
+            {
+                "id": 7,
+                "title": "The High Cost of Epinephrine Autoinjectors and Possible Alternatives.",
+                "date": "01-02-2020",
+                "journal": "The journal of allergy and clinical immunology. In practice"
+            },
+            {
+                "id": 8,
+                "title": "Time to epinephrine treatment is associated with the risk of mortality in children who achieve sustained ROSC after traumatic out-of-hospital cardiac arrest.",
+                "date": "01-03-2020",
+                "journal": "The journal of allergy and clinical immunology. In practice"
+            }
+        ],
+        "Clinicals_mentions": []
+    },
+    {
+        "atccode": "6302001",
+        "drug": "ISOPRENALINE",
+        "journal": [
+            {
+                "id": 9,
+                "title": "Gold nanoparticles synthesized from Euphorbia fischeriana root by green route method alleviates the isoprenaline hydrochloride induced myocardial infarction in rats.",
+                "date": "01-01-2020",
+                "journal": "Journal of photochemistry and photobiology. B, Biology"
+            }
+        ],
+        "Pub_med_mentions": [
+            {
+                "id": 9,
+                "title": "Gold nanoparticles synthesized from Euphorbia fischeriana root by green route method alleviates the isoprenaline hydrochloride induced myocardial infarction in rats.",
+                "date": "01-01-2020",
+                "journal": "Journal of photochemistry and photobiology. B, Biology"
+            }
+        ],
+        "Clinicals_mentions": []
+    },
+    {
+        "atccode": "R01AD",
+        "drug": "BETAMETHASONE",
+        "journal": [
+            {
+                "id": 10,
+                "title": "Clinical implications of umbilical artery Doppler changes after betamethasone administration",
+                "date": "01-01-2020",
+                "journal": "The journal of maternal-fetal & neonatal medicine"
+            },
+            {
+                "id": "11",
+                "title": "Effects of Topical Application of Betamethasone on Imiquimod-induced Psoriasis-like Skin Inflammation in Mice.",
+                "date": "01-01-2020",
+                "journal": "Journal of back and musculoskeletal rehabilitation"
+            },
+            {
+                "id": "NCT04153396",
+                "scientific_title": "Preemptive Infiltration With Betamethasone and Ropivacaine for Postoperative Pain in Laminoplasty or \\xc3\\xb1 Laminectomy",
+                "date": "01-01-2020",
+                "journal": "Hpitaux Universitaires de Genve"
+            }
+        ],
+        "Pub_med_mentions": [
+            {
+                "id": 10,
+                "title": "Clinical implications of umbilical artery Doppler changes after betamethasone administration",
+                "date": "01-01-2020",
+                "journal": "The journal of maternal-fetal & neonatal medicine"
+            },
+            {
+                "id": "11",
+                "title": "Effects of Topical Application of Betamethasone on Imiquimod-induced Psoriasis-like Skin Inflammation in Mice.",
+                "date": "01-01-2020",
+                "journal": "Journal of back and musculoskeletal rehabilitation"
+            }
+        ],
+        "Clinicals_mentions": [
+            {
+                "id": "NCT04153396",
+                "scientific_title": "Preemptive Infiltration With Betamethasone and Ropivacaine for Postoperative Pain in Laminoplasty or \\xc3\\xb1 Laminectomy",
+                "date": "01-01-2020",
+                "journal": "Hpitaux Universitaires de Genve"
+            }
+        ]
+    }
+]

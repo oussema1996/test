@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "C:\Users\BINITNS091\Desktop\ServierTest\main.py", line 57, in <module>
+    main()
+  File "C:\Users\BINITNS091\Desktop\ServierTest\main.py", line 42, in main
+    Result = data_transformer_object()
+  File "C:\Users\BINITNS091\Desktop\ServierTest\Transoformer.py", line 20, in __call__
+    return self.transform_data()
+AttributeError: 'Transoformer' object has no attribute 'transform_data'

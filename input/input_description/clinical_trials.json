@@ -1,0 +1,6 @@
+{
+  "id": ["id",0],
+  "scientific_title":["string",1],
+  "date":["date",1],
+  "journal":["string",1]
+}

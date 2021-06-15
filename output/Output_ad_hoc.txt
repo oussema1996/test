@@ -1,0 +1,3 @@
+the most mentioned jounal is Psychopharmacology
+ Here you have json  of the Journal and the number of different drug mentioned in them 
+{'Psychopharmacology': 2, 'Journal of emergency nursing': 1, 'The Journal of pediatrics': 1, 'Journal of food protection': 1, 'American journal of veterinary research': 1, 'The journal of allergy and clinical immunology. In practice': 1, 'Journal of photochemistry and photobiology. B, Biology': 1, 'The journal of maternal-fetal & neonatal medicine': 1, 'Journal of back and musculoskeletal rehabilitation': 1, 'Hpitaux Universitaires de Genve': 1}
